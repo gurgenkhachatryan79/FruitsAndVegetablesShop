@@ -1,0 +1,24 @@
+Information 28.03.2022 1:30:10 Product:Apple
+ID: 1
+ProductType: Golden
+Count:500 ProductionPeriod 28.03.2022 1:30:10 
+ShelfԼife:02.04.2022 1:30:10
+Price:250----------------------------------------
+Information 28.03.2022 1:30:10 Product:Orange
+ID: 2
+ProductType: Small
+Count:200 ProductionPeriod 28.03.2022 1:30:10 
+ShelfԼife:07.04.2022 1:30:10
+Price:650----------------------------------------
+Information 28.03.2022 1:30:10 Product:Tomato
+ID: 3
+ProductType: Armenian
+Count:100 ProductionPeriod 28.03.2022 1:30:10 
+ShelfԼife:04.04.2022 1:30:10
+Price:500----------------------------------------
+Information 28.03.2022 1:30:10 Product:Cucumber
+ID: 4
+ProductType: Geogian
+Count:200 ProductionPeriod 28.03.2022 1:30:10 
+ShelfԼife:09.04.2022 1:30:10
+Price:800----------------------------------------

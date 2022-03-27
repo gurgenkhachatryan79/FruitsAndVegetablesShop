@@ -1,11 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 
-namespace FruitsAndVegetablesShop.Products.Fruits
+namespace FruitsAndVegetablesShop.Products
 {
-    public class Orange:IFruits
+    public class Products : IProducts
     {
         public int Id { get; set; }
         public string ProductName { get; set; }
@@ -14,7 +11,7 @@ namespace FruitsAndVegetablesShop.Products.Fruits
         public double Price { get; set; }
         public double Count { get; set; }
 
-        public Orange(int id, string productName, double price, double count, int shelflife)
+        public Products(int id, string productName, double price, double count, int shelflife)
         {
             Id = id;
             ProductName = productName;

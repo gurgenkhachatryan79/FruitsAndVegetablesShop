@@ -2,13 +2,8 @@ using FruitsAndVegetablesShop.Products;
 using FruitsAndVegetablesShop.Products.Fruits;
 using FruitsAndVegetablesShop.Products.Vegetables;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
-using Microsoft.Extensions.Logging;
-using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 
 namespace FruitsAndVegetablesShop
 {
@@ -26,9 +21,9 @@ namespace FruitsAndVegetablesShop
             //   shopManager.GetProductForShop(products);
 
             shop.GetProductForShop(products);
-            new ShowInfo().Print(shop.ProductsList);
+            new ShowInfo().Print(Shop.ProductsList);
 
-              CreateHostBuilder(args).Build().Run();
+            CreateHostBuilder(args).Build().Run();
         }
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>

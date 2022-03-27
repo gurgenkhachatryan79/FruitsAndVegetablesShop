@@ -1,8 +1,6 @@
 ﻿using FruitsAndVegetablesShop.Products;
-using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Threading.Tasks;
 
 namespace FruitsAndVegetablesShop
 {
@@ -13,7 +11,7 @@ namespace FruitsAndVegetablesShop
         public string Address { get; set; }
         public string OpeningTime { get; set; }
         public string ClosingTime { get; set; }
-        public List<IProducts> ProductsList;
+        public static List<IProducts> ProductsList;
         public ShopManager Manager { get; set; }
 
 
@@ -31,6 +29,34 @@ namespace FruitsAndVegetablesShop
         {
             ProductsList.AddRange(products);
         }
+
+        public static List<IProducts> GetProducts()
+        {
+            return ProductsList.ToList();
+        }
+        public static IProducts GetProductID(int id)
+        {
+            return ProductsList[id];
+        }
+
+        public static void AddProduct(IProducts product)
+        {
+            ProductsList.Add(product);
+        }
+
+        public static List<IProducts> DeleteProductByID(int id)
+        {
+            for (int i = 0; i < ProductsList.Count; i++)
+            {
+                if (ProductsList[i].Id == id)
+                {
+                    ProductsList.RemoveAt(i);
+                    break;
+                }
+            }
+            return ProductsList;
+        }
+
 
 
     }
