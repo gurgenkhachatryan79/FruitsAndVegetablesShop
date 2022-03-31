@@ -31,7 +31,6 @@ namespace FruitsAndVegetablesShop.Controllers
         public IActionResult Post([FromBody] IProducts product)
         {
             Shop.AddProduct(product);
-            // new ShowInfo().Print(product);
             System.Console.WriteLine(product.ToString());
             return this.Ok();
         }

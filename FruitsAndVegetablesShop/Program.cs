@@ -14,10 +14,10 @@ namespace FruitsAndVegetablesShop
     public class Program
     {
         public static void Main(string[] args)
-        {         
-            Shop shop = new Shop("GoodShop", "02247573", "Andraniki 44", "09:00", "21:00");
-            ShopManager shopManager = new ShopManager(15, "Armen", 50);
+        {
             CreateSerilog();
+            Shop shop = new Shop("GoodShop", "02247573", "Andraniki 44");
+            ShopManager shopManager = new ShopManager(15, "Armen", 50);      
             List<IProducts> products = new List<IProducts>()
             {
                  new Apple( 1,"Golden",250,500),new Orange(2,"Small",650,200),
@@ -27,8 +27,8 @@ namespace FruitsAndVegetablesShop
             shop.MakeProductForShop(products);
             // shopManager.GetProductForShop(products);
 
-            // CreateHostBuilder(args).Build().Run();
-
+             CreateHostBuilder(args).Build().Run();
+          
 
         }
 
