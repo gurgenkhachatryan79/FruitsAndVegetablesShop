@@ -1,4 +1,4 @@
-﻿using FruitsAndVegetablesShop.Log;
+﻿//using FruitsAndVegetablesShop.Log;
 using FruitsAndVegetablesShop.Products;
 using System;
 using System.Collections.Generic;
@@ -6,16 +6,13 @@ using System.Collections.Generic;
 namespace FruitsAndVegetablesShop
 {
     public class ShowInfo
-    {
-        public void Print(List<IProducts> products)
-        {
-            foreach (var item in products)
+    {public void Print(List<IProducts> products)
+        // public void Print(IProducts item)
+        { 
+             foreach (var item in products)
             {
-                string text = $"Product:{item.GetType().Name}\nID: {item.Id}\nProductType: {item.ProductName}\nCount:{item.Count} ProductionPeriod {item.ProductionPeriod} \nShelfԼife:{item.ShelfԼife}\nPrice:{item.Price}{new string('-', 40)}";
-                Console.WriteLine("Product=" + item.GetType().Name + "\nID:" + item.Id + "\nProductType:" + item.ProductName + "\nCount:" + item.Count);
-                Console.WriteLine("ProductionPeriod:" + item.ProductionPeriod + "\nShelfԼife:" + item.ShelfԼife + "\nPrice:" + item.Price);
-                Console.WriteLine(new string('-', 40));
-                new Logger().LogInformation(text);
+                Console.WriteLine(item.Id + " " + item.ProductName + ".." + item.Price);
+                Console.WriteLine("-----");
             }
         }
     }

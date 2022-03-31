@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Toshiba\\Desktop\\C#\\Digitain\\Level2\\Week2\\ASP.Net Core Web API\\FruitsAndVegetablesShop\\FruitsAndVegetablesShop\\FruitsAndVegetablesShop.csproj": {}
+    "C:\\Users\\Toshiba\\Desktop\\C#\\Digitain\\Level2\\Week2\\Новая папка\\FruitsAndVegetablesShop\\FruitsAndVegetablesShop\\FruitsAndVegetablesShop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Toshiba\\Desktop\\C#\\Digitain\\Level2\\Week2\\ASP.Net Core Web API\\FruitsAndVegetablesShop\\FruitsAndVegetablesShop\\FruitsAndVegetablesShop.csproj": {
+    "C:\\Users\\Toshiba\\Desktop\\C#\\Digitain\\Level2\\Week2\\Новая папка\\FruitsAndVegetablesShop\\FruitsAndVegetablesShop\\FruitsAndVegetablesShop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Toshiba\\Desktop\\C#\\Digitain\\Level2\\Week2\\ASP.Net Core Web API\\FruitsAndVegetablesShop\\FruitsAndVegetablesShop\\FruitsAndVegetablesShop.csproj",
+        "projectUniqueName": "C:\\Users\\Toshiba\\Desktop\\C#\\Digitain\\Level2\\Week2\\Новая папка\\FruitsAndVegetablesShop\\FruitsAndVegetablesShop\\FruitsAndVegetablesShop.csproj",
         "projectName": "FruitsAndVegetablesShop",
-        "projectPath": "C:\\Users\\Toshiba\\Desktop\\C#\\Digitain\\Level2\\Week2\\ASP.Net Core Web API\\FruitsAndVegetablesShop\\FruitsAndVegetablesShop\\FruitsAndVegetablesShop.csproj",
+        "projectPath": "C:\\Users\\Toshiba\\Desktop\\C#\\Digitain\\Level2\\Week2\\Новая папка\\FruitsAndVegetablesShop\\FruitsAndVegetablesShop\\FruitsAndVegetablesShop.csproj",
         "packagesPath": "C:\\Users\\Toshiba\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Toshiba\\Desktop\\C#\\Digitain\\Level2\\Week2\\ASP.Net Core Web API\\FruitsAndVegetablesShop\\FruitsAndVegetablesShop\\obj\\",
+        "outputPath": "C:\\Users\\Toshiba\\Desktop\\C#\\Digitain\\Level2\\Week2\\Новая папка\\FruitsAndVegetablesShop\\FruitsAndVegetablesShop\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Toshiba\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,12 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

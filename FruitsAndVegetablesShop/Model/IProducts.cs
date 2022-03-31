@@ -6,8 +6,8 @@ namespace FruitsAndVegetablesShop.Products
     {
         public int Id { set; get; }
         public string ProductName { set; get; }
-        public DateTime ProductionPeriod { set; get; }
-        public DateTime ShelfԼife { set; get; }
+        //public DateTime ProductionPeriod { set; get; }
+        //public DateTime ShelfԼife { set; get; }
         public double Price { set; get; }
         public double Count { set; get; }
     }

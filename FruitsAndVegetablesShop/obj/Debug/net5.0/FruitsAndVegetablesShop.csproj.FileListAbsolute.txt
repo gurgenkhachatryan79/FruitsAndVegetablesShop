@@ -21,3 +21,37 @@ C:\Users\Toshiba\Desktop\C#\Digitain\Level2\Week2\ASP.Net Core Web API\FruitsAnd
 C:\Users\Toshiba\Desktop\C#\Digitain\Level2\Week2\ASP.Net Core Web API\FruitsAndVegetablesShop\FruitsAndVegetablesShop\obj\Debug\net5.0\ref\FruitsAndVegetablesShop.dll
 C:\Users\Toshiba\Desktop\C#\Digitain\Level2\Week2\ASP.Net Core Web API\FruitsAndVegetablesShop\FruitsAndVegetablesShop\obj\Debug\net5.0\FruitsAndVegetablesShop.pdb
 C:\Users\Toshiba\Desktop\C#\Digitain\Level2\Week2\ASP.Net Core Web API\FruitsAndVegetablesShop\FruitsAndVegetablesShop\obj\Debug\net5.0\FruitsAndVegetablesShop.genruntimeconfig.cache
+C:\Users\Toshiba\Desktop\C#\Digitain\Level2\Week2\Новая папка\FruitsAndVegetablesShop\FruitsAndVegetablesShop\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Toshiba\Desktop\C#\Digitain\Level2\Week2\Новая папка\FruitsAndVegetablesShop\FruitsAndVegetablesShop\bin\Debug\net5.0\appsettings.json
+C:\Users\Toshiba\Desktop\C#\Digitain\Level2\Week2\Новая папка\FruitsAndVegetablesShop\FruitsAndVegetablesShop\bin\Debug\net5.0\FruitsAndVegetablesShop.exe
+C:\Users\Toshiba\Desktop\C#\Digitain\Level2\Week2\Новая папка\FruitsAndVegetablesShop\FruitsAndVegetablesShop\bin\Debug\net5.0\FruitsAndVegetablesShop.deps.json
+C:\Users\Toshiba\Desktop\C#\Digitain\Level2\Week2\Новая папка\FruitsAndVegetablesShop\FruitsAndVegetablesShop\bin\Debug\net5.0\FruitsAndVegetablesShop.runtimeconfig.json
+C:\Users\Toshiba\Desktop\C#\Digitain\Level2\Week2\Новая папка\FruitsAndVegetablesShop\FruitsAndVegetablesShop\bin\Debug\net5.0\FruitsAndVegetablesShop.runtimeconfig.dev.json
+C:\Users\Toshiba\Desktop\C#\Digitain\Level2\Week2\Новая папка\FruitsAndVegetablesShop\FruitsAndVegetablesShop\bin\Debug\net5.0\FruitsAndVegetablesShop.dll
+C:\Users\Toshiba\Desktop\C#\Digitain\Level2\Week2\Новая папка\FruitsAndVegetablesShop\FruitsAndVegetablesShop\bin\Debug\net5.0\ref\FruitsAndVegetablesShop.dll
+C:\Users\Toshiba\Desktop\C#\Digitain\Level2\Week2\Новая папка\FruitsAndVegetablesShop\FruitsAndVegetablesShop\bin\Debug\net5.0\FruitsAndVegetablesShop.pdb
+C:\Users\Toshiba\Desktop\C#\Digitain\Level2\Week2\Новая папка\FruitsAndVegetablesShop\FruitsAndVegetablesShop\obj\Debug\net5.0\FruitsAndVegetablesShop.csproj.AssemblyReference.cache
+C:\Users\Toshiba\Desktop\C#\Digitain\Level2\Week2\Новая папка\FruitsAndVegetablesShop\FruitsAndVegetablesShop\obj\Debug\net5.0\FruitsAndVegetablesShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Toshiba\Desktop\C#\Digitain\Level2\Week2\Новая папка\FruitsAndVegetablesShop\FruitsAndVegetablesShop\obj\Debug\net5.0\FruitsAndVegetablesShop.AssemblyInfoInputs.cache
+C:\Users\Toshiba\Desktop\C#\Digitain\Level2\Week2\Новая папка\FruitsAndVegetablesShop\FruitsAndVegetablesShop\obj\Debug\net5.0\FruitsAndVegetablesShop.AssemblyInfo.cs
+C:\Users\Toshiba\Desktop\C#\Digitain\Level2\Week2\Новая папка\FruitsAndVegetablesShop\FruitsAndVegetablesShop\obj\Debug\net5.0\FruitsAndVegetablesShop.csproj.CoreCompileInputs.cache
+C:\Users\Toshiba\Desktop\C#\Digitain\Level2\Week2\Новая папка\FruitsAndVegetablesShop\FruitsAndVegetablesShop\obj\Debug\net5.0\FruitsAndVegetablesShop.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Toshiba\Desktop\C#\Digitain\Level2\Week2\Новая папка\FruitsAndVegetablesShop\FruitsAndVegetablesShop\obj\Debug\net5.0\staticwebassets\FruitsAndVegetablesShop.StaticWebAssets.Manifest.cache
+C:\Users\Toshiba\Desktop\C#\Digitain\Level2\Week2\Новая папка\FruitsAndVegetablesShop\FruitsAndVegetablesShop\obj\Debug\net5.0\staticwebassets\FruitsAndVegetablesShop.StaticWebAssets.xml
+C:\Users\Toshiba\Desktop\C#\Digitain\Level2\Week2\Новая папка\FruitsAndVegetablesShop\FruitsAndVegetablesShop\obj\Debug\net5.0\scopedcss\bundle\FruitsAndVegetablesShop.styles.css
+C:\Users\Toshiba\Desktop\C#\Digitain\Level2\Week2\Новая папка\FruitsAndVegetablesShop\FruitsAndVegetablesShop\obj\Debug\net5.0\FruitsAndVegetablesShop.RazorTargetAssemblyInfo.cache
+C:\Users\Toshiba\Desktop\C#\Digitain\Level2\Week2\Новая папка\FruitsAndVegetablesShop\FruitsAndVegetablesShop\obj\Debug\net5.0\FruitsAndVegetablesShop.dll
+C:\Users\Toshiba\Desktop\C#\Digitain\Level2\Week2\Новая папка\FruitsAndVegetablesShop\FruitsAndVegetablesShop\obj\Debug\net5.0\ref\FruitsAndVegetablesShop.dll
+C:\Users\Toshiba\Desktop\C#\Digitain\Level2\Week2\Новая папка\FruitsAndVegetablesShop\FruitsAndVegetablesShop\obj\Debug\net5.0\FruitsAndVegetablesShop.pdb
+C:\Users\Toshiba\Desktop\C#\Digitain\Level2\Week2\Новая папка\FruitsAndVegetablesShop\FruitsAndVegetablesShop\obj\Debug\net5.0\FruitsAndVegetablesShop.genruntimeconfig.cache
+C:\Users\Toshiba\Desktop\C#\Digitain\Level2\Week2\Новая папка\FruitsAndVegetablesShop\FruitsAndVegetablesShop\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Toshiba\Desktop\C#\Digitain\Level2\Week2\Новая папка\FruitsAndVegetablesShop\FruitsAndVegetablesShop\bin\Debug\net5.0\Serilog.dll
+C:\Users\Toshiba\Desktop\C#\Digitain\Level2\Week2\Новая папка\FruitsAndVegetablesShop\FruitsAndVegetablesShop\bin\Debug\net5.0\Serilog.AspNetCore.dll
+C:\Users\Toshiba\Desktop\C#\Digitain\Level2\Week2\Новая папка\FruitsAndVegetablesShop\FruitsAndVegetablesShop\bin\Debug\net5.0\Serilog.Extensions.Hosting.dll
+C:\Users\Toshiba\Desktop\C#\Digitain\Level2\Week2\Новая папка\FruitsAndVegetablesShop\FruitsAndVegetablesShop\bin\Debug\net5.0\Serilog.Extensions.Logging.dll
+C:\Users\Toshiba\Desktop\C#\Digitain\Level2\Week2\Новая папка\FruitsAndVegetablesShop\FruitsAndVegetablesShop\bin\Debug\net5.0\Serilog.Formatting.Compact.dll
+C:\Users\Toshiba\Desktop\C#\Digitain\Level2\Week2\Новая папка\FruitsAndVegetablesShop\FruitsAndVegetablesShop\bin\Debug\net5.0\Serilog.Settings.Configuration.dll
+C:\Users\Toshiba\Desktop\C#\Digitain\Level2\Week2\Новая папка\FruitsAndVegetablesShop\FruitsAndVegetablesShop\bin\Debug\net5.0\Serilog.Sinks.Console.dll
+C:\Users\Toshiba\Desktop\C#\Digitain\Level2\Week2\Новая папка\FruitsAndVegetablesShop\FruitsAndVegetablesShop\bin\Debug\net5.0\Serilog.Sinks.Debug.dll
+C:\Users\Toshiba\Desktop\C#\Digitain\Level2\Week2\Новая папка\FruitsAndVegetablesShop\FruitsAndVegetablesShop\bin\Debug\net5.0\Serilog.Sinks.File.dll
+C:\Users\Toshiba\Desktop\C#\Digitain\Level2\Week2\Новая папка\FruitsAndVegetablesShop\FruitsAndVegetablesShop\obj\Debug\net5.0\FruitsAndVegetablesShop.csproj.CopyComplete

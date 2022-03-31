@@ -5,6 +5,7 @@
 //using System.Linq;
 //using System.Threading.Tasks;
 
+using FruitsAndVegetablesShop.Products;
 using Microsoft.AspNetCore.Mvc;
 using System.Collections.Generic;
 
@@ -16,9 +17,23 @@ namespace FruitsAndVegetablesShop.Controllers
     {
 
         [HttpGet]
-        public IEnumerable<string> Get()
+        public IEnumerable<IProducts> Get()
         {
-            return new string[] { "value3", "value4" };
+            return Shop.GetAllProducts();
+        }
+        [HttpGet("{id}")]
+        public IProducts GetID(int id)
+        {
+            return Shop.GetProductByID(id);
+        }
+
+        [HttpPost]
+        public IActionResult Post([FromBody] IProducts product)
+        {
+            Shop.AddProduct(product);
+            // new ShowInfo().Print(product);
+            System.Console.WriteLine(product.ToString());
+            return this.Ok();
         }
     }
 }
